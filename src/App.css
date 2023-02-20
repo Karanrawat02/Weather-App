@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.Container{
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  /* border: 1px red solid; */
+  width: 25%;
+}
